@@ -11,10 +11,9 @@ application.properties에 있는
 itemImgLocation=C:/Users/hanky/Desktop/Shop/Item_images
 uploadPath=file:///C:/Users/hanky/Desktop/Shop/
 
-spring.datasource.driver-class-name 
-spring.datasource.url 
-spring.datasource.username
-spring.datasource.password 
+경로를 수정하신 다음 spring.datasource 또한 수정해주시면 정상적으로 정상적으로 테스트 해보실 수 있습니다.
 
-경로를 수정하셔서 사용하시면 정상적으로 테스트 해보실 수 있습니다. (spring.datasource 하위 필드들 또한 수정해주시면 됩니다.)
 뷰 템플릿으로는 Thymeleaf을 사용했습니다.
+
+
+Spring Boot / Thymeleaf / JPA / MySQL
